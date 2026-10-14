@@ -6,5 +6,4 @@ open:
 instruction: open_question_guidance 
 source: demo
 note: this is just from the demo
-variant_of:
-  {hello_world_2: just because}
+variant_of: {hello_world_2: just because}
