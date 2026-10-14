@@ -1,0 +1,4 @@
+name: hello_world_2
+text: how are you doing today
+intent: find out how the respondent is feeling
+responses: feeling5 
