@@ -1,0 +1,11 @@
+name: hello_world
+text: how are you today?
+intent: find out how the respondent is feeling today
+open:
+  max_length: 100
+instruction: open_question_guidance 
+source: demo
+note: this is just from the demo
+variant_of:
+  question: hello_world_2
+  why: open response
